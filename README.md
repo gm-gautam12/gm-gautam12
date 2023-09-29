@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Mishra</h1>
 <h3 align="center">Exploring Web</h3>
 
-- 🌱 I’m currently mastering **javaScript**
+- 🌱 I’m currently mastering **React JS**
 
 - 💬 Ask me about **https://www.linkedin.com/in/gautam-mishra-151745211/**
 
