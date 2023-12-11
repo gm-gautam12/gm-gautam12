@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Gautam Mishra</h1>
+<h1 align="center">Hi 👋, I'm Gautam Mishra</h1>
 
 ###
 
-<p align="left">A passionate frontend developer from India</p>
+<h4 align="center">A passionate frontend developer from India</h4>
 
 ###
 
