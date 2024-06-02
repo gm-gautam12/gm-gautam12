@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A passionate frontend developer from India</h4>
+<h4 align="center">A passionate Full Stack developer from India</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Backend<br>💬 Ask me about https://www.linkedin.com/in/gautam-mishra-151745211/<br>📫 How to reach me mishra.gautam3112@gmail.com</p>
+<p align="left">📚 I'm currently exploring Android<br>💬 Ask me about https://www.linkedin.com/in/gautam-mishra-151745211/<br>📫 How to reach me mishra.gautam3112@gmail.com</p>
 
 ###
 
