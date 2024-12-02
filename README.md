@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Mishra</h1>
 <h3 align="center">A passionate JavaScript developer from India</h3>
 
-- 🔭 I’m currently working with **Instinger**
+- 🔭 I’m currently working with ****
 
 - 🌱 I’m currently learning **CS fundamentals**
 
