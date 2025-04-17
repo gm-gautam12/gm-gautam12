@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with ****
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 
